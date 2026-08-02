@@ -15,7 +15,8 @@ In these ciphers, each letter is replaced by another letter using **one fixed ru
 Here, **more than one substitution rule** is used, and the rule keeps changing as the message goes on, usually based on a keyword. This hides letter patterns better than monoalphabetic ciphers, so they are harder to crack.
 
 1. [`vigenere_cipher.ipynb`](notebooks/vigenere_cipher.ipynb)
-2. [`one_time_pad.ipynb`](notebooks/one_time_pad.ipynb)
+2. [`autokey_cipher.ipynb`](notebooks/autokey_cipher.ipynb)
+3. [`one_time_pad.ipynb`](notebooks/one_time_pad.ipynb)
 
 ## 3. Polygraphic Substitution Ciphers
 
